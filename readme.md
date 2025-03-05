@@ -110,4 +110,13 @@ This script filters and processes text files containing bios. It performs the fo
 #### Key Functions:
 - The script does not contain any functions but uses a for loop to process files and extract data.
 
-    
+
+## How to run it
+
+### Install required packages
+- open cmd or terminal and go to current folder and run following command to install necessary pacakges.
+`pip install -r .\requirements.txt`
+
+### Run the script
+In the cmd or terminal run 
+`python .\scraper.py`
